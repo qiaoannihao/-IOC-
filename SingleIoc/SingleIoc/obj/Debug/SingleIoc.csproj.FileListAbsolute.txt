@@ -1,0 +1,10 @@
+G:\desk\SingleIoc\SingleIoc\bin\Debug\SingleIoc.dll.config
+G:\desk\SingleIoc\SingleIoc\bin\Debug\SingleIoc.dll
+G:\desk\SingleIoc\SingleIoc\bin\Debug\SingleIoc.pdb
+G:\desk\SingleIoc\SingleIoc\obj\Debug\SingleIoc.csprojAssemblyReference.cache
+G:\desk\SingleIoc\SingleIoc\obj\Debug\SingleIoc.csproj.CoreCompileInputs.cache
+G:\desk\SingleIoc\SingleIoc\obj\Debug\SingleIoc.dll
+G:\desk\SingleIoc\SingleIoc\obj\Debug\SingleIoc.pdb
+G:\desk\SingleIoc\SingleIoc\bin\Debug\Newtonsoft.Json.dll
+G:\desk\SingleIoc\SingleIoc\bin\Debug\Newtonsoft.Json.xml
+G:\desk\SingleIoc\SingleIoc\obj\Debug\SingleIoc.csproj.CopyComplete

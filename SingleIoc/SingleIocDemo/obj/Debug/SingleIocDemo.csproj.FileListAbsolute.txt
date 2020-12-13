@@ -1,0 +1,13 @@
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIocDemo.exe.config
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIocDemo.exe
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIocDemo.pdb
+G:\desk\SingleIoc\SingleIocDemo\obj\Debug\SingleIocDemo.csprojAssemblyReference.cache
+G:\desk\SingleIoc\SingleIocDemo\obj\Debug\SingleIocDemo.csproj.CoreCompileInputs.cache
+G:\desk\SingleIoc\SingleIocDemo\obj\Debug\SingleIocDemo.exe
+G:\desk\SingleIoc\SingleIocDemo\obj\Debug\SingleIocDemo.pdb
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIoc.dll
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\Newtonsoft.Json.dll
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIoc.pdb
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\SingleIoc.dll.config
+G:\desk\SingleIoc\SingleIocDemo\bin\Debug\Newtonsoft.Json.xml
+G:\desk\SingleIoc\SingleIocDemo\obj\Debug\SingleIocDemo.csproj.CopyComplete
